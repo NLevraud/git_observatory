@@ -5,3 +5,4 @@
 - grating
 - camera
 - detector
+-to change to adapt to ngs and planet specter
